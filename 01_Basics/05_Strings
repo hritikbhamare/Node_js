@@ -1,0 +1,6 @@
+const name = "Hritik"
+const lastname = "Bhamare"
+
+// console.log(name.charAt(2));
+// console.log(name.indexOf('t'));
+console.log(name.slice(-3));
