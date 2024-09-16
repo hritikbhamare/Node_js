@@ -1,6 +1,7 @@
 const name = "Hritik"
-const lastname = "Bhamare"
+const lastname = " Bhamare sds  "
 
 // console.log(name.charAt(2));
 // console.log(name.indexOf('t'));
-console.log(name.slice(-3));
+
+console.log(lastname.replace("  ",""));
